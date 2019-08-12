@@ -164,7 +164,7 @@ class MainPage extends React.Component {
             <div>
                 <h2>{APP_CONFIG.description}</h2>
 
-                <p>Select an image </p>
+                <p>Select an image from gallery </p>
 
                 <Form>
                     <FormGroup>
@@ -192,10 +192,10 @@ class MainPage extends React.Component {
                         </div>
                     </FormGroup>
 
-                    <h3>OR</h3>
+                    <h3>ATAU</h3>
                     <FormGroup id={"upload_button"}>
                         <div>
-                            <p>Upload an image</p>
+                            <p>Upload an image (jpg/jpeg/jpg)</p>
                         </div>
                         <Label for="imageUpload">
                             <Input type="file" name="file" id="imageUpload" accept=".png, .jpg, .jpeg" ref="file"
@@ -208,9 +208,9 @@ class MainPage extends React.Component {
 
                     <FormGroup>
                         <Button color="success" onClick={this._predict}
-                                disabled={this.state.isLoading}> Predict</Button>
+                                disabled={this.state.isLoading}> Prediksi </Button>
                         <span className="p-1 "/>
-                        <Button color="danger" onClick={this._clear}> Clear</Button>
+                        <Button color="danger" onClick={this._clear}> Hapus </Button>
                     </FormGroup>
 
 
@@ -290,4 +290,4 @@ function App() {
     )
 })();
 
-
+<h2> Note: diagnosa akhir harus merujuk pada tenaga ahli medis<h2/>
