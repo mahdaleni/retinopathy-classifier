@@ -242,10 +242,10 @@ class CustomNavBar extends React.Component {
                 <Collapse navbar>
                     <Nav className="ml-auto" navbar>
                         <NavItem>
-                            <NavLink href="/about">About</NavLink>
+                            <NavLink href="/about"></NavLink>
                         </NavItem>
                         <NavItem>
-                            <NavLink href={link}>GitHub</NavLink>
+                            <NavLink href={link}></NavLink>
                         </NavItem>
 
                     </Nav>
