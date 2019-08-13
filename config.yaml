@@ -3,16 +3,14 @@ description: Classify fundus images using artificial intelligence
 about:
 
 
-  This is a Diabetic Retinopathy Detector that detects Referrable Diabetic Retinopathy (RDR) using Deep Learning and was built with [fastai](docs.fast.ai)
+  Diagnose diabetic retina 
 
 
-  This project was built by [Tanishq Abraham](https://github.com/tmabraham)
+  Project by Machine Learning and Artificial Intelligence
 
+  Developer // Zulman Arif,ST
 
-  The web application was based on the [Food Image Classifier by Nidhin Pattaniyil and Reshama Shaikh](https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/)
-
-
-code: https://github.com/tmabraham/retinopathy-classifier
+code: google.com
 
 sampleImages:
   - name: No Retinopathy
