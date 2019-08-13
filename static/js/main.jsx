@@ -164,7 +164,7 @@ class MainPage extends React.Component {
             <div>
                 <h2>{APP_CONFIG.description}</h2>
 
-                <p>Select an image from gallery </p>
+                <p>Select an image </p>
 
                 <Form>
                     <FormGroup>
@@ -192,10 +192,10 @@ class MainPage extends React.Component {
                         </div>
                     </FormGroup>
 
-                    <h3>ATAU</h3>
+                    <h3>OR</h3>
                     <FormGroup id={"upload_button"}>
                         <div>
-                            <p>Upload an image (jpg/jpeg/jpg)</p>
+                            <p>Upload an image</p>
                         </div>
                         <Label for="imageUpload">
                             <Input type="file" name="file" id="imageUpload" accept=".png, .jpg, .jpeg" ref="file"
@@ -208,9 +208,9 @@ class MainPage extends React.Component {
 
                     <FormGroup>
                         <Button color="success" onClick={this._predict}
-                                disabled={this.state.isLoading}> Predict </Button>
+                                disabled={this.state.isLoading}> Predict</Button>
                         <span className="p-1 "/>
-                        <Button color="danger" onClick={this._clear}> Clear </Button>
+                        <Button color="danger" onClick={this._clear}> Clear</Button>
                     </FormGroup>
 
 
@@ -242,10 +242,10 @@ class CustomNavBar extends React.Component {
                 <Collapse navbar>
                     <Nav className="ml-auto" navbar>
                         <NavItem>
-                            <NavLink href="/about"></NavLink>
+                            <NavLink href="/about">About</NavLink>
                         </NavItem>
                         <NavItem>
-                            <NavLink href={link}></NavLink>
+                            <NavLink href={link}>GitHub</NavLink>
                         </NavItem>
 
                     </Nav>
@@ -290,4 +290,3 @@ function App() {
     )
 })();
 
-<h2> Note: diagnosa akhir harus merujuk pada tenaga ahli medis<h2/>
