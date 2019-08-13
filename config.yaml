@@ -1,14 +1,27 @@
-title:  Diagnose Diabetic Retinopathy
+title:  Diagnose Retinopati Diabetes
 description: Classify fundus images using artificial intelligence
 about:
 
 
-  Diagnose diabetic retina 
+  Retinopati diabetes atau sering juga ditulis sebagai diabetic retinopathy adalah penyakit mata retinopati pada penderita diabetes yang menyebabkan kerusakan retina dan merupakan penyebab utama kebutaan. Retinopati diabetes dialami oleh 80 persen mereka yang menderita diabetes 20 tahun atau lebih. Setidaknya 90 persen dari penderita retinopati diabetes bisa ditekan jika dilakukan perawatan dan pengawasan yang tepat pada mata. Semakin lama seseorang menderita diabetes, makin besar kemungkinan ia menderita retinopati diabetes.
+
+Durasi lamanya seorang penderita diabetes juga menentukan komplikasi retinopati diabetes, yaitu sebesar 75% dari penderita yang sudah mengidap diabetes selama 20 tahun. Komplikasi retinopati diabetes terjadi tanpa melalui munculnya gejala yang terasa oleh penderita, bersifat lambat, namun perjalanan penyakit ini berpotensi besar menyebabkan kebutaan.[1]
+
+Klasifikasi Retinopati Diabetes:
+
+Berdasarkan Akademi Oftalmologi Amerika
+Retinopati Diabetes Nonproliferatif: ringan, sedang, dan berat
+Retinopati Diabetes Proliferatif: ditandai dengan gambaran tumbuhnya pembuluh darah baru yang fibrosis melewati membran limitans interna lapisan retina
+Retinopati Diabetes Proliferatif Dini: pembuluh darah baru terbentuk di sekitar diskus, atau dalam 1 jarak diamter diskus, atau neovaskularisasi di tempat lain.
+Retinopati Diabetes Proliferatif Risiko Tinggi: terdapat pembuluh darah baru pada diskus dengan ukuran lebih dari 1/4 diameter diskus, atau pembuluh darah baru pada diskus dengan ukuran <1/4 diameter diskus disertai perdarahan vitreous, atau pembuluh darah baru di tempat lain yang berukuran >1/2 diameter diskus dengan perdarahan vitreous.
+Retinopati Diabetes Proliferatif Lanjut: terdapat pembuluh darah baru pada diskus dengan ukuran lebih dari 1/4 diameter diskus, atau pembuluh darah baru pada diskus dengan ukuran <1/4 diameter diskus disertai perdarahan vitreous, atau pembuluh darah baru di tempat lain yang berukuran >1/2 diameter diskus dengan perdarahan vitreous, ditambah dengan adanya ablasio retina traksional yang melibatkan bintik kuning, dengan atau tanpa perddarahan vitreous.
+Berdasarkan NSC-UK
+Retinopati Diabetes Nonproliferatif: sekeliling/tidak jelas, pre-proliferatif.
+Retinopati Diabetes Proliferatif: ringan, sedang, risiko tinggi, dan lanjut[1]
+Komplikasi Retinopati Diabetes biasanya memiliki gejala yang berhubungan dengan pembuluh darah baik pembuluh darah besar atau kecil (vaskulopati), karena kadar gula dalam darah (HbA1C), distimulus oleh perubahan kekentalan darah (trombosit, inflamasi). Bentuk akutnya antara lain hipoglikemi, ketoasidosis, hiperosmolar non-ketotik. Adapun bentuk kronisnya yaitu makro dan mikroangiopati pada ginjal (nefropati), saraf (neuropati), dan organ lainnya. Keadaan HbA1C yang lebih dari atau sama dengan 11,5 menentukan adanya komplikasi retinopati diabetes secara signifikan. Komplikasi ini semua terjadi mlalui berbagai mekanisme antara lain terbentuknya radikal bebas, perubahan struktur trombosit, inflamasi, terbentuknya senyawa poliol, produk akhir glikasi lanjut, pengaktifan jalur heksosisamin, diasil-gliserol-PKC,[2]
 
 
-  Project by Machine Learning and Artificial Intelligence
-
-  Developer // Zulman Arif,ST
+Developer// Zulman Arif.ST
 
 code: google.com
 
