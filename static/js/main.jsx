@@ -208,9 +208,9 @@ class MainPage extends React.Component {
 
                     <FormGroup>
                         <Button color="success" onClick={this._predict}
-                                disabled={this.state.isLoading}> Prediksi </Button>
+                                disabled={this.state.isLoading}> Predict </Button>
                         <span className="p-1 "/>
-                        <Button color="danger" onClick={this._clear}> Hapus </Button>
+                        <Button color="danger" onClick={this._clear}> Clear </Button>
                     </FormGroup>
 
 
