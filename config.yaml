@@ -1,6 +1,5 @@
 title:  Diagnose Retinopati Diabetes
 description: Eye Check Artificial Intelligence by-Arif
-data:
 about:
 
 
@@ -11,7 +10,10 @@ about:
   Developer // Zulman Arif, ST
   
   
-  Alamat // Pandau Jaya, Kampar Riau
+  Alamat1 // Pekanbaru, Panam Prov Riau
+  
+  
+  Alamat2 // Pandau Jaya, Kampar Prov Riau
   
   
   NOTE - Hasil resmi tetap merujuk pada diagnosa dokter atau tenaga ahli medis
@@ -20,7 +22,10 @@ about:
 how to use:
 
 
-   Ambil gambar/image dengan menggunakan video atau kamera ponsel dengan mengambil sampel retina mata menggunakan Condenser Lens.
+   Ambil gambar/image dengan menggunakan video atau kamera ponsel dengan mengambil sampel retina mata menggunakan Condenser Lens
+   
+   
+data:
 
 
 code: https://id.wikipedia.org/wiki/Retinopati_diabetes
