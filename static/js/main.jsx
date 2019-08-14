@@ -50,6 +50,10 @@ class About extends React.Component {
 
             <div>
                 <h3>About</h3>
+                <ReactMarkdown source={window.APP_CONFIG.about}/>
+            </div>
+            
+             <div>
                 <h3>Data</h3>
                 <ReactMarkdown source={window.APP_CONFIG.about}/>
             </div>
