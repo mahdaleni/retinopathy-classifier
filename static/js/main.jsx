@@ -276,7 +276,7 @@ function App() {
                     <main role="main" className="container">
                         <Route exact path="/" component={MainPage}/>
                         <Route exact path="/about" component={About}/>
-                        <Route exact path="/data" component={Data}/>
+                        
 
                     </main>
 
