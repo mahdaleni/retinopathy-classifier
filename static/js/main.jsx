@@ -49,11 +49,9 @@ class About extends React.Component {
         return (
 
             <div>
-                <h3>About</h3>
+                <h1>About</h1>
                 <ReactMarkdown source={window.APP_CONFIG.about}/>
             </div>
-            
-            
         );
     }
 }
@@ -194,7 +192,7 @@ class MainPage extends React.Component {
                         </div>
                     </FormGroup>
 
-                    <h1>OR</h1>
+                    <h3>OR</h3>
                     <FormGroup id={"upload_button"}>
                         <div>
                             <p>Upload an image</p>
@@ -247,12 +245,8 @@ class CustomNavBar extends React.Component {
                             <NavLink href="/about">About</NavLink>
                         </NavItem>
                         <NavItem>
-                            <NavLink href={link}>What this</NavLink>
+                            <NavLink href={link}>Info</NavLink>
                         </NavItem>
-                        <NavItem>
-                            <NavLink href="/data">Data</NavLink>
-                        </NavItem>
-                        
 
                     </Nav>
                 </Collapse>
@@ -273,7 +267,6 @@ function App() {
                     <main role="main" className="container">
                         <Route exact path="/" component={MainPage}/>
                         <Route exact path="/about" component={About}/>
-                        
 
                     </main>
 
@@ -296,4 +289,5 @@ function App() {
         rootElement
     )
 })();
+
 
