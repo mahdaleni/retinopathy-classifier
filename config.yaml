@@ -1,31 +1,11 @@
-title:  Diagnose Retinopati Diabetes
-description: Eye Check Artificial Intelligence by-Arif
+title: Diabetic Retinopathy Detector
+description: Classify fundus images using deep learning
 about:
 
 
-  Aplikasi online untuk Rujukan atau Referrable Diabetic Retinopathy (RDR) berdasarkan klasifikasi menggunakan kecerdasan buatan /Artificial Intelligence dan Machine Learning
   
-  
-  Developer - Zulman Arif, ST
-  
-  
-  Alamat1 - Pekanbaru, Panam Prov Riau
-  
-  
-  Alamat2 - Pandau Jaya, Kampar Prov Riau
-  
-  
-  How to use//
-  
-  
-  Ambil gambar/image dengan menggunakan video atau kamera ponsel dengan mengambil sampel retina mata menggunakan Condenser Lens
-  
-  
-  NOTE - Hasil resmi tetap merujuk pada diagnosa dokter atau tenaga ahli medis
-  
-  
+Aplikasi online untuk Rujukan atau Referrable Diabetic Retinopathy (RDR) berdasarkan klasifikasi menggunakan kecerdasan buatan /Artificial Intelligence dan Machine Learning Developer - Zulman Arif, ST Alamat1 - Pekanbaru, Panam Prov Riau Alamat2 - Pandau Jaya, Kampar Prov Riau How to use// Ambil gambar/image dengan menggunakan video atau kamera ponsel dengan mengambil sampel retina mata menggunakan Condenser Lens NOTE - Hasil resmi tetap merujuk pada diagnosa dokter atau tenaga ahli medis 
 
-   
 code: https://id.wikipedia.org/wiki/Retinopati_diabetes
 
 sampleImages:
@@ -37,8 +17,4 @@ sampleImages:
     url: https://i.imgur.com/gLTumUd.jpg
   - name: Severe Nonproliferative Retinopathy
     url: https://i.imgur.com/Uw0rR4Y.jpg
-  - name: Proliferative Diabetic Retinopathy
-    url: https://i.imgur.com/TDUlmUa.jpg
-    
-    
-   
+  - name: Proliferative Diabetic Retinop
