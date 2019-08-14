@@ -53,10 +53,7 @@ class About extends React.Component {
                 <ReactMarkdown source={window.APP_CONFIG.about}/>
             </div>
             
-             <div>
-                <h3>Data</h3>
-                <ReactMarkdown source={window.APP_CONFIG.about}/>
-            </div>
+            
         );
     }
 }
@@ -253,10 +250,10 @@ class CustomNavBar extends React.Component {
                             <NavLink href={link}>How it works</NavLink>
                         </NavItem>
                         <NavItem>
-                            <NavLink href={link}>Data</NavLink>
+                            <NavLink href={link}>How to use</NavLink>
                         </NavItem>
                         <NavItem>
-                            <NavLink href="/data">How to use</NavLink>
+                            <NavLink href="/data">Data</NavLink>
                         </NavItem>
                         
 
@@ -279,7 +276,7 @@ function App() {
                     <main role="main" className="container">
                         <Route exact path="/" component={MainPage}/>
                         <Route exact path="/about" component={About}/>
-                        <Route exact path="/data" component={About}/>
+                        <Route exact path="/data" component={Data}/>
 
                     </main>
 
