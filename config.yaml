@@ -1,6 +1,8 @@
 title:  Diagnose Retinopati Diabetes
 description: Eye Check Artificial Intelligence by-Arif
+data:
 about:
+
 
 
   Aplikasi online untuk Rujukan atau Referrable Diabetic Retinopathy (RDR) berdasarkan klasifikasi menggunakan kecerdasan buatan /Artificial Intelligence dan Machine Learning
@@ -13,6 +15,12 @@ about:
   
   
   NOTE - Hasil resmi tetap merujuk pada diagnosa dokter atau tenaga ahli medis
+  
+  
+how to use:
+
+
+   Ambil gambar/image dengan menggunakan Video atau Kamera Ponsel dengan mengambil sampel retina mata menggunakan Condenser Lens.
 
 
 code: https://id.wikipedia.org/wiki/Retinopati_diabetes
