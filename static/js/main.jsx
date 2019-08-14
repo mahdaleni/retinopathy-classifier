@@ -247,6 +247,13 @@ class CustomNavBar extends React.Component {
                         <NavItem>
                             <NavLink href={link}>How it works</NavLink>
                         </NavItem>
+                        <NavItem>
+                            <NavLink href={link}>Data</NavLink>
+                        </NavItem>
+                        <NavItem>
+                            <NavLink href="/about">How to use</NavLink>
+                        </NavItem>
+                        
 
                     </Nav>
                 </Collapse>
