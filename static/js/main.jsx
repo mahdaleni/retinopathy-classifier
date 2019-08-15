@@ -192,7 +192,7 @@ class MainPage extends React.Component {
                         </div>
                     </FormGroup>
 
-                    <h3>OR</h3>
+                    <h3>ATAU</h3>
                     <FormGroup id={"upload_button"}>
                         <div>
                             <p>Upload an image</p>
@@ -289,5 +289,3 @@ function App() {
         rootElement
     )
 })();
-
-
