@@ -4,16 +4,28 @@ description: Uji fundus images dengan deep learning dan AI
 about:
 
 
-  Aplikasi berbasis web untuk menguji diabetes retinopathy dengan Artificial Intelligence dan Machine Learning  
+  Aplikasi berbasis web untuk menguji indikasi  diabetes retinopathy dengan metoda klasifikasi beberapa tingkat gejala melalui Artificial Intelligence dan Machine Learning  
 
 
-  Semoga bermanfaat untuk masyarakat luas
-
-
+  How to use///
+  
+  
+  1. Arahkan Condenser Lens ke arah retina mata 
+  
+  
+  2, Ambil foto /image dari retina dengan kamera / melalui condenser Lens
+  
+  
+  3. Simpan gambar dalam gallery atau penyimpanan data 
+  
+  
   Developer - Zulman Arif,ST
+  
+  
+  PERHATIAN/// RUJUKAN RESMI HARUS DARI DOKTER ATAU TENAGA AHLI MEDIS 
 
 
-code: id.m.wikipedia.org/wiki/retinopati_diabetes
+code: https://id.m.wikipedia.org/wiki/Retinopati_diabetes
 
 sampleImages:
   - name: No Retinopathy
