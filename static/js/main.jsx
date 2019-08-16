@@ -164,12 +164,12 @@ class MainPage extends React.Component {
             <div>
                 <h2>{APP_CONFIG.description}</h2>
 
-                <p>Select an image </p>
+                <p></p>
 
                 <Form>
                     <FormGroup>
                         <div>
-                            <p>Provide a Url</p>
+                            <p>Input a web Url</p>
                             <div>
 
                                 <UncontrolledDropdown >
@@ -195,7 +195,7 @@ class MainPage extends React.Component {
                     <h3>ATAU</h3>
                     <FormGroup id={"upload_button"}>
                         <div>
-                            <p>Upload an image</p>
+                            <p>Upload gambar/image</p>
                         </div>
                         <Label for="imageUpload">
                             <Input type="file" name="file" id="imageUpload" accept=".png, .jpg, .jpeg" ref="file"
@@ -208,9 +208,9 @@ class MainPage extends React.Component {
 
                     <FormGroup>
                         <Button color="success" onClick={this._predict}
-                                disabled={this.state.isLoading}> Predict</Button>
+                                disabled={this.state.isLoading}> Prediksi</Button>
                         <span className="p-1 "/>
-                        <Button color="danger" onClick={this._clear}> Clear</Button>
+                        <Button color="danger" onClick={this._clear}> Hapus</Button>
                     </FormGroup>
 
 
