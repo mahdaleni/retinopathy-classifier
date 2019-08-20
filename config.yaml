@@ -30,11 +30,11 @@ code: https://id.m.wikipedia.org/wiki/Retinopati_diabetes
 sampleImages:
   - name: No Retinopathy
     url: https://i.imgur.com/bag6XaA.jpg
-  - name: Mild Nonproliferative Retinopathy
+  - name: Mild Nonproliferative 
     url: https://i.imgur.com/ZcLBb6b.jpg
-  - name: Moderate Nonproliferative Retinopathy
+  - name: Moderate Nonproliferative 
     url: https://i.imgur.com/gLTumUd.jpg
-  - name: Severe Nonproliferative Retinopathy
+  - name: Severe Nonproliferative 
     url: https://i.imgur.com/Uw0rR4Y.jpg
-  - name: Proliferative Diabetic Retinopathy
+  - name: Proliferative Diabetic 
     url: https://i.imgur.com/TDUlmUa.jpg
