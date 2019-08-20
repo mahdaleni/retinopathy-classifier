@@ -1,19 +1,19 @@
 
-title: Retina image Tester  
-description: Uji Retinopati diabetes dengan deep learning dan AI
+title: Diabetes Retinopati Tester  
+description: Uji Fundus Image dengan AI
 about:
 
 
-  Aplikasi berbasis web untuk menguji indikasi  Retinopati diabetes dengan metoda klasifikasi beberapa tingkat gejala melalui Artificial Intelligence dan Machine Learning  
+  Aplikasi berbasis web untuk mengklasifikasi adanya indikasi Diabetes Retinopati pada penderita diabetes dengan Artificial Intelligence 
 
 
-  How to use///
+  Cara penggunaan ///
   
   
   1. Arahkan Condenser Lens ke arah retina mata 
   
   
-  2, Ambil foto /image dari retina dengan kamera / melalui condenser Lens
+  2. Ambil foto /image dari retina dengan kamera / melalui condenser Lens
   
   
   3. Simpan gambar dalam gallery atau penyimpanan data 
